@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 8.Lego Blocks\bin\Debug\Problem 8.Lego Blocks.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 8.Lego Blocks\bin\Debug\Problem 8.Lego Blocks.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 8.Lego Blocks\bin\Debug\Problem 8.Lego Blocks.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 8.Lego Blocks\obj\Debug\Problem 8.Lego Blocks.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 8.Lego Blocks\obj\Debug\Problem 8.Lego Blocks.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 8.Lego Blocks\obj\Debug\Problem 8.Lego Blocks.pdb

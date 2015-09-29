@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 7. Generic Array Sort\bin\Debug\Problem_7.Generic_Array_Sort.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 7. Generic Array Sort\bin\Debug\Problem_7.Generic_Array_Sort.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 7. Generic Array Sort\bin\Debug\Problem_7.Generic_Array_Sort.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 7. Generic Array Sort\obj\Debug\Problem 7. Generic Array Sort.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 7. Generic Array Sort\obj\Debug\Problem_7.Generic_Array_Sort.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 7. Generic Array Sort\obj\Debug\Problem_7.Generic_Array_Sort.pdb

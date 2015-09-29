@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 6. Number Calculations\bin\Debug\Problem_6.Number_Calculations.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 6. Number Calculations\obj\Debug\Problem 6. Number Calculations.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 6. Number Calculations\obj\Debug\Problem_6.Number_Calculations.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 6. Number Calculations\obj\Debug\Problem_6.Number_Calculations.pdb

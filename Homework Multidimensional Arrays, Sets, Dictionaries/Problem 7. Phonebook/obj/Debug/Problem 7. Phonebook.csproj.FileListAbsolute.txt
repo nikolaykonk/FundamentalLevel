@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 7. Phonebook\obj\Debug\Problem 7. Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.pdb

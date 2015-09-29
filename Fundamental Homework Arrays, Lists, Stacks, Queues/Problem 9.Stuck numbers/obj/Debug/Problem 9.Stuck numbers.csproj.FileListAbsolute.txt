@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 9.Stuck numbers\bin\Debug\Problem 9.Stuck numbers.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 9.Stuck numbers\bin\Debug\Problem 9.Stuck numbers.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 9.Stuck numbers\bin\Debug\Problem 9.Stuck numbers.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 9.Stuck numbers\obj\Debug\Problem 9.Stuck numbers.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 9.Stuck numbers\obj\Debug\Problem 9.Stuck numbers.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 9.Stuck numbers\obj\Debug\Problem 9.Stuck numbers.pdb

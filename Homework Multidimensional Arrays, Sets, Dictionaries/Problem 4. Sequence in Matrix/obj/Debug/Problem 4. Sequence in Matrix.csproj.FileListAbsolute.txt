@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 4. Sequence in Matrix\obj\Debug\Problem 4. Sequence in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 4. Sequence in Matrix\obj\Debug\Problem_4.Sequence_in_Matrix.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 4. Sequence in Matrix\obj\Debug\Problem_4.Sequence_in_Matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 9.Terrorists Win\bin\Debug\Problem 9.Terrorists Win.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 9.Terrorists Win\bin\Debug\Problem 9.Terrorists Win.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 9.Terrorists Win\bin\Debug\Problem 9.Terrorists Win.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 9.Terrorists Win\obj\Debug\Problem 9.Terrorists Win.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 9.Terrorists Win\obj\Debug\Problem 9.Terrorists Win.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 9.Terrorists Win\obj\Debug\Problem 9.Terrorists Win.pdb

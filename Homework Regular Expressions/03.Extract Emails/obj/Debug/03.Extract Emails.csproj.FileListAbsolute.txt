@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\03.Extract Emails\bin\Debug\03.Extract Emails.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\03.Extract Emails\bin\Debug\03.Extract Emails.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\03.Extract Emails\bin\Debug\03.Extract Emails.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\03.Extract Emails\obj\Debug\03.Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\03.Extract Emails\obj\Debug\03.Extract Emails.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\03.Extract Emails\obj\Debug\03.Extract Emails.pdb

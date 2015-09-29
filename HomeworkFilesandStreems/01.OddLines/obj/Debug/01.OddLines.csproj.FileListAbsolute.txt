@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\HomeworkFilesandStreems\01.OddLines\bin\Debug\01.OddLines.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\HomeworkFilesandStreems\01.OddLines\bin\Debug\01.OddLines.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\HomeworkFilesandStreems\01.OddLines\bin\Debug\01.OddLines.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\HomeworkFilesandStreems\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\HomeworkFilesandStreems\01.OddLines\obj\Debug\01.OddLines.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\HomeworkFilesandStreems\01.OddLines\obj\Debug\01.OddLines.pdb

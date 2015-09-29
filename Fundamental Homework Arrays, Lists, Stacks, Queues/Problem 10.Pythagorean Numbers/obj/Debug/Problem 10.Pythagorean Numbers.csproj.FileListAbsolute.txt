@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 10.Pythagorean Numbers\bin\Debug\Problem 10.Pythagorean Numbers.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 10.Pythagorean Numbers\bin\Debug\Problem 10.Pythagorean Numbers.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 10.Pythagorean Numbers\bin\Debug\Problem 10.Pythagorean Numbers.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 10.Pythagorean Numbers\obj\Debug\Problem 10.Pythagorean Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 10.Pythagorean Numbers\obj\Debug\Problem 10.Pythagorean Numbers.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 10.Pythagorean Numbers\obj\Debug\Problem 10.Pythagorean Numbers.pdb

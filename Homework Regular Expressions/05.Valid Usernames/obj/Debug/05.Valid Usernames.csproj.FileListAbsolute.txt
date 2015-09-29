@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\05.Valid Usernames\bin\Debug\05.Valid Usernames.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\05.Valid Usernames\bin\Debug\05.Valid Usernames.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\05.Valid Usernames\bin\Debug\05.Valid Usernames.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\05.Valid Usernames\obj\Debug\05.Valid Usernames.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\05.Valid Usernames\obj\Debug\05.Valid Usernames.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\05.Valid Usernames\obj\Debug\05.Valid Usernames.pdb

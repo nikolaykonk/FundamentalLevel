@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 10.Plus-Remove\bin\Debug\Problem 10.Plus-Remove.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 10.Plus-Remove\bin\Debug\Problem 10.Plus-Remove.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 10.Plus-Remove\bin\Debug\Problem 10.Plus-Remove.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 10.Plus-Remove\obj\Debug\Problem 10.Plus-Remove.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 10.Plus-Remove\obj\Debug\Problem 10.Plus-Remove.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 10.Plus-Remove\obj\Debug\Problem 10.Plus-Remove.pdb

@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 3. Larger Than Neighbours\bin\Debug\Problem_3.Larger_Than_Neighbours.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 3. Larger Than Neighbours\bin\Debug\Problem_3.Larger_Than_Neighbours.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 3. Larger Than Neighbours\bin\Debug\Problem_3.Larger_Than_Neighbours.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 3. Larger Than Neighbours\obj\Debug\Problem 3. Larger Than Neighbours.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 3. Larger Than Neighbours\obj\Debug\Problem_3.Larger_Than_Neighbours.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 3. Larger Than Neighbours\obj\Debug\Problem_3.Larger_Than_Neighbours.pdb

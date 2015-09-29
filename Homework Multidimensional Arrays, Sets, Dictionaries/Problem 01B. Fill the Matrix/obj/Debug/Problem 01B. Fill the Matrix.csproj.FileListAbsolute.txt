@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 01B. Fill the Matrix\bin\Debug\Problem_01B.Fill_the_Matrix.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 01B. Fill the Matrix\bin\Debug\Problem_01B.Fill_the_Matrix.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 01B. Fill the Matrix\bin\Debug\Problem_01B.Fill_the_Matrix.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 01B. Fill the Matrix\obj\Debug\Problem 01B. Fill the Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 01B. Fill the Matrix\obj\Debug\Problem_01B.Fill_the_Matrix.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 01B. Fill the Matrix\obj\Debug\Problem_01B.Fill_the_Matrix.pdb

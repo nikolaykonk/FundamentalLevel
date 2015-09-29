@@ -1,0 +1,5 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 1. Fill the Matrix\bin\Debug\Problem_1.Fill_the_Matrix.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 1. Fill the Matrix\obj\Debug\Problem_1.Fill_the_Matrix.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 1. Fill the Matrix\obj\Debug\Problem_1.Fill_the_Matrix.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 1. Fill the Matrix\bin\Debug\Problem_1.Fill_the_Matrix.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 1. Fill the Matrix\bin\Debug\Problem_1.Fill_the_Matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 5.LongestIncreasingSequence\bin\Debug\Problem 5.LongestIncreasingSequence.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 5.LongestIncreasingSequence\bin\Debug\Problem 5.LongestIncreasingSequence.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 5.LongestIncreasingSequence\bin\Debug\Problem 5.LongestIncreasingSequence.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 5.LongestIncreasingSequence\obj\Debug\Problem 5.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 5.LongestIncreasingSequence\obj\Debug\Problem 5.LongestIncreasingSequence.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 5.LongestIncreasingSequence\obj\Debug\Problem 5.LongestIncreasingSequence.pdb

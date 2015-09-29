@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 7. Sorted Subset Sums\bin\Debug\Problem_7.Sorted_Subset_Sums.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 7. Sorted Subset Sums\bin\Debug\Problem_7.Sorted_Subset_Sums.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 7. Sorted Subset Sums\bin\Debug\Problem_7.Sorted_Subset_Sums.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 7. Sorted Subset Sums\obj\Debug\Problem 7. Sorted Subset Sums.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 7. Sorted Subset Sums\obj\Debug\Problem_7.Sorted_Subset_Sums.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 7. Sorted Subset Sums\obj\Debug\Problem_7.Sorted_Subset_Sums.pdb

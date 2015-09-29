@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 1. Bigger Number\bin\Debug\Problem_1.Bigger_Number.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 1. Bigger Number\bin\Debug\Problem_1.Bigger_Number.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 1. Bigger Number\bin\Debug\Problem_1.Bigger_Number.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 1. Bigger Number\obj\Debug\Problem 1. Bigger Number.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 1. Bigger Number\obj\Debug\Problem_1.Bigger_Number.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Methods\Problem 1. Bigger Number\obj\Debug\Problem_1.Bigger_Number.pdb

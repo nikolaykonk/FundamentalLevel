@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers\bin\Debug\Problem_3.Categorize_Numbers.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers\bin\Debug\Problem_3.Categorize_Numbers.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers\bin\Debug\Problem_3.Categorize_Numbers.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers\obj\Debug\Problem 3. Categorize Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers\obj\Debug\Problem_3.Categorize_Numbers.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 3. Categorize Numbers\obj\Debug\Problem_3.Categorize_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 5. Collect the Coins\obj\Debug\Problem 5. Collect the Coins.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.pdb

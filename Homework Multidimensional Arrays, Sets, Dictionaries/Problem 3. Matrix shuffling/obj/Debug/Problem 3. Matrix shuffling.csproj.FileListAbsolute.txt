@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 3. Matrix shuffling\obj\Debug\Problem 3. Matrix shuffling.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.pdb

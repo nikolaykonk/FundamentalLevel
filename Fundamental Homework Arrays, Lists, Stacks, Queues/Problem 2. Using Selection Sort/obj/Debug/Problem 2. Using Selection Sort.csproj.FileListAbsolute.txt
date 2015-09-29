@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 2. Using Selection Sort\bin\Debug\Problem_2.Using_Selection_Sort.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 2. Using Selection Sort\bin\Debug\Problem_2.Using_Selection_Sort.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 2. Using Selection Sort\bin\Debug\Problem_2.Using_Selection_Sort.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 2. Using Selection Sort\obj\Debug\Problem 2. Using Selection Sort.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 2. Using Selection Sort\obj\Debug\Problem_2.Using_Selection_Sort.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Fundamental Homework Arrays, Lists, Stacks, Queues\Problem 2. Using Selection Sort\obj\Debug\Problem_2.Using_Selection_Sort.pdb

@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 11.String Matrix Rotation\bin\Debug\Problem 11.String Matrix Rotation.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 11.String Matrix Rotation\bin\Debug\Problem 11.String Matrix Rotation.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 11.String Matrix Rotation\bin\Debug\Problem 11.String Matrix Rotation.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 11.String Matrix Rotation\obj\Debug\Problem 11.String Matrix Rotation.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 11.String Matrix Rotation\obj\Debug\Problem 11.String Matrix Rotation.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Multidimensional Arrays, Sets, Dictionaries\Problem 11.String Matrix Rotation\obj\Debug\Problem 11.String Matrix Rotation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\06.Extract Hyperlinks\bin\Debug\06.Extract Hyperlinks.exe.config
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\06.Extract Hyperlinks\bin\Debug\06.Extract Hyperlinks.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\06.Extract Hyperlinks\bin\Debug\06.Extract Hyperlinks.pdb
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\06.Extract Hyperlinks\obj\Debug\06.Extract Hyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\06.Extract Hyperlinks\obj\Debug\06.Extract Hyperlinks.exe
+C:\Users\Innovia\Desktop\SoftUni\Fundamental Homeworks\Homework Regular Expressions\06.Extract Hyperlinks\obj\Debug\06.Extract Hyperlinks.pdb
